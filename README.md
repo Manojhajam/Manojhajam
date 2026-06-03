@@ -4,10 +4,13 @@
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Manojhajam&theme=dark)
-
 ![](https://streak-stats.demolab.com?user=Manojhajam&theme=dark)
-
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manojhajam&layout=compact&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manojhajam&theme=dark)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## GitHub
+- Followers
+- Repositories
+- Pinned Projects
+- Contribution Calendar (shown automatically on profile)
