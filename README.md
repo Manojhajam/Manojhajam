@@ -1,3 +1,13 @@
+👋 Hi, I'm Manoj
+
+I'm a Full-Stack Developer passionate about building modern, scalable, and user-friendly web and mobile applications.
+
+I primarily work with React, Node.js, Next.js, Nest.js, Laravel and React Native, and I enjoy designing clean backend architectures, REST APIs, authentication systems, role-based access control, and database-driven applications.
+
+Currently, I'm focused on building real-world projects such as GPS-based Bus Tracking Systems, where I work with live GPS data, Laravel APIs, database relationships, and role-based dashboards.
+
+I’m always learning, improving my development skills, and exploring better ways to build reliable software. 🚀
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,6 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Manojhajam&theme=dark)
