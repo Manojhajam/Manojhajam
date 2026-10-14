@@ -27,9 +27,9 @@ I’m always learning, improving my development skills, and exploring better way
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Manojhajam&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojhajam&theme=dark&show_icons=true)
 ![](https://streak-stats.demolab.com?user=Manojhajam&theme=dark)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manojhajam&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Manojhajam&layout=compact&theme=dark&langs_count=8)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
